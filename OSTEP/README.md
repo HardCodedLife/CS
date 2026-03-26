@@ -11,7 +11,7 @@
 ---
 
 ## Current Reading
-- **Chapter:** Intro
+- **Chapter:** Intro [2.3 Concurrency]
 - **PDF:** https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf
 - **Code reference:** https://github.com/remzi-arpacidusseau/ostep-code/tree/master/intro
 
