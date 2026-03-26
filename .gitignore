@@ -1,0 +1,85 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# Make
+Makefile.in
+
+# Autotools
+aclocal.m4
+autom4te.cache/
+config.log
+config.status
+configure
+
+# IDE - VSCode
+.vscode/
+
+# IDE - CLion
+.idea/
+*.iml
+
+# IDE - Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+
+# IDE - Eclipse
+.cproject
+.project
+.settings/
+
+# Dependency / Package managers
+vcpkg_installed/
+conan/
+conanbuildinfo.*
+conaninfo.txt
+graph_info.json
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+*.swo
+*~
