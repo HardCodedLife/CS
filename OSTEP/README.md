@@ -6,15 +6,16 @@
 |---|---|
 | 📖 Book (free online) | https://pages.cs.wisc.edu/~remzi/OSTEP/ |
 | 💻 Official book code | https://github.com/remzi-arpacidusseau/ostep-code |
+| 🏗️ Official book projects | https://github.com/remzi-arpacidusseau/ostep-projects?tab=readme-ov-file |
 | 📚 C++ Reference | https://cplusplus.com/reference/ |
 | 📜 UNIX Interfaces Specification | https://pubs.opengroup.org/onlinepubs/7908799/ |
 
 ---
 
 ## Current Reading
-- **Chapter:** Intro [2.6 Some History]
-- **PDF:** https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf
-- **Code reference:** https://github.com/remzi-arpacidusseau/ostep-code/tree/master/intro
+- **Chapter:** Part I [Virtualization]
+- **PDF:** https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-virtualization.pdf
+- **Code reference:** https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-utilities 
 
 ---
 
