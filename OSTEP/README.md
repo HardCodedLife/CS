@@ -7,6 +7,7 @@
 | 📖 Book (free online) | https://pages.cs.wisc.edu/~remzi/OSTEP/ |
 | 💻 Official book code | https://github.com/remzi-arpacidusseau/ostep-code |
 | 📚 C++ Reference | https://cplusplus.com/reference/ |
+| 📜 UNIX Interfaces Specification | https://pubs.opengroup.org/onlinepubs/7908799/ |
 
 ---
 
