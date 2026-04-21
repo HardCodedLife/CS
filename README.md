@@ -232,3 +232,5 @@ If yes → do Phase 3. If no → replace Phase 3 with going **deeper on OS + Net
 **Bottom line:** Phase 3 is a *specialization*, not a *foundation*. Don't let it become a reason to delay starting Phase 1 today.
 
 ---
+
+**Maybe more:** [Computer System Engineering](https://ocw.mit.edu/courses/6-5660-computer-systems-security-spring-2024/external-resources/6180-formerly-6033-computer-systems-engineering_6420f9ca-6068-4aeb-9f24-3481993b8bda/)
