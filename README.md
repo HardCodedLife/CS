@@ -233,4 +233,4 @@ If yes → do Phase 3. If no → replace Phase 3 with going **deeper on OS + Net
 
 ---
 
-**Maybe more:** [Computer System Engineering](https://ocw.mit.edu/courses/6-5660-computer-systems-security-spring-2024/external-resources/6180-formerly-6033-computer-systems-engineering_6420f9ca-6068-4aeb-9f24-3481993b8bda/)
+**Maybe more:** [Software Construction](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/), [Computation Strutures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/), [Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
