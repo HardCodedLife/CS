@@ -15,7 +15,7 @@
 
 ## Current Reading
 - **Chapter:** Virtualization 4.Processes-Homework
-- **PDF:** https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf#page=12
+- **PDF:** https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf
 - **Code reference:** https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-utilities 
 
 ---
